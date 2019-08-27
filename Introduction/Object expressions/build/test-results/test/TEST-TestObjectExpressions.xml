@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestObjectExpressions" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-19T08:48:37" hostname="DESKTOP-DUGD1DT" time="0.014">
+  <properties/>
+  <testcase name="testSort" classname="TestObjectExpressions" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
